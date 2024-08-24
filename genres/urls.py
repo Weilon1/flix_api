@@ -1,5 +1,5 @@
 from django.urls import path
-from . import views #importa as views do arquivo view por estar no mesmo diretório
+from . import views  # importa as views do arquivo view por estar no mesmo diretório
 
 
 urlpatterns = [
